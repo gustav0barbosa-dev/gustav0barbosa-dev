@@ -4,7 +4,7 @@
 
 **`Back-end Developer · QA Engineer · Data Engineering`**
 
-Estudante de ADS na FATEC-SP (conclusão dez/2027) e Técnico em Automação Industrial pelo IFSP.
+Estudante de ADS na FATEC-SP e Técnico em Automação Industrial pelo IFSP.
 Construo APIs robustas, automatizo testes em múltiplas camadas e entrego com CI/CD.
 Apaixonado por qualidade de software, arquitetura de sistemas e engenharia de dados aplicada ao mercado financeiro.
 
