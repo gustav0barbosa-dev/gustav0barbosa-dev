@@ -9,7 +9,7 @@ Construo APIs robustas, automatizo testes em múltiplas camadas e entrego com CI
 Apaixonado por qualidade de software, arquitetura de sistemas e engenharia de dados aplicada ao mercado financeiro.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-henrique-barbosa-7571783b0)
-[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gustuldo099-beep.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gustav0barbosa-dev.github.io/gustuldo099-beep.github.io/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barbosa.silva.gustavo56@gmail.com)
 
 </div>
