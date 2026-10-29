@@ -113,6 +113,7 @@ Apaixonado por qualidade de software, arquitetura de sistemas e engenharia de da
     <td width="50%">
       <h3 align="center">CNN Detecção de Defeitos</h3>
       <p align="center">
+        <a href="https://github.com/gustav0barbosa-dev/CNN-Detecao-de-Defeitos">
         <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python"/>
         <img src="https://img.shields.io/badge/CNN-Machine_Learning-yellow?style=flat-square"/>
         <img src="https://img.shields.io/badge/Visão_Computacional-grey?style=flat-square"/>
