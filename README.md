@@ -119,6 +119,7 @@ Apaixonado por qualidade de software, arquitetura de sistemas e engenharia de da
         <img src="https://img.shields.io/badge/Visão_Computacional-grey?style=flat-square"/>
       </p>
       <p>TCC desenvolvido no IFSP — Rede Neural Convolucional para detecção automática de defeitos em hortaliças com Python. Apresentado em feiras científicas regionais.</p>
+      <p align="center"><a href="https://github.com/gustav0barbosa-dev/CNN-Detecao-de-Defeitos">→ ver repositório</a></p>
     </td>
   </tr>
 </table>
